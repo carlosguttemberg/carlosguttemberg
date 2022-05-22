@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Me chamo Carlos Guttemberg 😄</h1>
-<h3>Sou desenvolvedor Web PHP full stack, atuando desde 2016 no mercado. Tenho me dedicado diariamente a adquirir conhecimentos na área de programação e também na área de gestão tendo um foco mais na metodologia ágil Scrum. Mais recentemente comecei a estudar novas tecnologias usando Javascript, como Node.Js e React Js</h3>
+<h3>Sou desenvolvedor Web full stack, atuando desde 2016 no mercado. Tenho me dedicado diariamente a adquirir conhecimentos na área de programação e também na área de gestão tendo um foco mais na metodologia ágil Scrum. Mais recentemente comecei a estudar novas tecnologias usando Javascript, como Node.Js e React Js</h3>
 <hr>
 
 - 🎓 Formado em Sistemas de Informação pelo Instituto Federal Fluminense em 2017
