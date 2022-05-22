@@ -5,9 +5,8 @@
 - 🎓 Formado em Sistemas de Informação pelo Instituto Federal Fluminense em 2017
 - 🎓 MBA em gestão de projetos pela UNOPAR
 - 💻 Techs: React.js, Node.js, PHP.
-- 🔭 Trabalho como desenvolvedor PHP na FDC Sistemas
+- 🔭 Trabalho como desenvolvedor na Luizalabs
 - 🌱 Tenho buscado aprendizado em Javascript usando React e Node.Js
-- 🚀 Aluno da RocketSeat
 
 <p align="center">
   <a href="https://linkedin.com/in/carlos-guttemberg-ferreira-2978aa172" target="blank">
